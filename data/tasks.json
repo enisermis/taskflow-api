@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Giris sayfasi API baglantisi",
+    "description": "Frontend ekibi icin login endpointi hazirlanacak",
+    "priority": "high",
+    "assignee": "musa",
+    "status": "in-progress",
+    "createdAt": "2026-11-02T09:15:00.000Z",
+    "updatedAt": "2026-11-03T14:20:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Veritabani yedekleme plani",
+    "description": "Haftalik yedekleme adimlari yazilacak",
+    "priority": "medium",
+    "assignee": "ayse",
+    "status": "pending",
+    "createdAt": "2026-11-03T10:00:00.000Z",
+    "updatedAt": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Backend hata kayitlarini incele",
+    "description": "Gecen haftanin loglari kontrol edilecek",
+    "priority": "low",
+    "assignee": "musa",
+    "status": "completed",
+    "createdAt": "2026-11-04T08:30:00.000Z",
+    "updatedAt": "2026-11-05T16:45:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Musteri raporu ekranini test et",
+    "description": "Rapor ciktilari kontrol edilip eksikler yazilacak",
+    "priority": "high",
+    "assignee": "ali",
+    "status": "pending",
+    "createdAt": "2026-11-05T11:10:00.000Z",
+    "updatedAt": "2026-11-05T11:10:00.000Z"
+  }
+]
