@@ -15,8 +15,8 @@ Görev ekleme, listeleme, detay, güncelleme ve silme işlemlerinin yanında fil
 Projeyi indirin ve klasörüne girin:
 
 ```bash
-git clone <repo-adresi>
-cd <repo-klasoru>
+git clone https://github.com/enisermis/taskflow-api.git
+cd taskflow-api
 ```
 
 Bağımlılıkları kurun:
